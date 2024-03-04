@@ -10,6 +10,8 @@
 
 ## Project Overview
 
+Introducing the [tea](https://tea.xyz/) First.
+
 tea-NFT is a non-fungible token (NFT) platform based on Ethereum, allowing users to create, mint, purchase, and trade unique digital assets. Through tea-NFT, users can transform their creativity and works into digital artworks that can be circulated on the blockchain.
 
 ## File Structure
