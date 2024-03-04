@@ -1,6 +1,6 @@
 # tea-NFT - Blockchain-Based Non-Fungible Token Platform
 
-![tea-NFT Logo](https://example.com/teanft-logo.png)
+![tea-NFT Logo](/assets/teanfttest.png)
 
 ## Project Overview
 
