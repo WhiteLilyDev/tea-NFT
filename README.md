@@ -16,6 +16,23 @@ tea-NFT is a non-fungible token (NFT) platform based on Ethereum, allowing users
 
 ## File Structure
 
+└─tea-NFT
+    │  .gitignore
+    │  hardhat.config.js
+    │  LICENSE
+    │  package.json
+    │  README.md
+    │
+    ├─assets
+    │      teanfttest.png
+    │
+    ├─contracts
+    │      tea-nft.sol
+    │
+    └─scripts
+            deploy.js
+            mint.js
+
 - contracts/: Directory for storing smart contracts
 - scripts/: Directory for storing deployment and minting scripts
 - assets/: Directory for storing files to be minted
