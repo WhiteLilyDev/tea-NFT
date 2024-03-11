@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
 <a href="https://github.com/WhiteLilyDev/tea-NFT" target="_blank">
-<img src="https://raw.githubusercontent.com/WhiteLilyDev/tea-NFT/main/assets/teanfttest.png" width="220" alt="tea-NFT logo">
+<img src="https://raw.githubusercontent.com/WhiteLilyDev/tea-NFT/main/assets/teanfttest.png" width="230" alt="tea-NFT logo">
 </a>
 </p>
 <br/>

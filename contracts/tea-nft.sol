@@ -8,12 +8,12 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 
 // @custom:security-contact whitelilydev@gmail.com
-contract FoolNFT is ERC721, ERC721URIStorage, ERC721Burnable, Ownable {
+contract teaNFT is ERC721, ERC721URIStorage, ERC721Burnable, Ownable {
     using Counters for Counters.Counter;
 
     Counters.Counter private _tokenIdCounter;
 
-    constructor() ERC721("FoolNFT", "FOOL") {}
+    constructor() ERC721("teaNFT", "TEA") {}
 
     function safeMint(address to, string memory uri) public onlyOwner {
         uint256 tokenId = _tokenIdCounter.current();
